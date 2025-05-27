@@ -1,0 +1,33 @@
+# Ignore Maven wrapper files and directories
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore Git-related files
+.gitattributes
+
+# Ignore build output and temporary files
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Ignore log files
+*.log
+
+# Ignore other common temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
